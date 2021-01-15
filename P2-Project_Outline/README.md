@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Library Application
+...
 ### Features
-Include Features here
+User Login: Users can create profiles.
+Social Media Login: Users can user social media accounts to log in. 
+Create new items: Users can add or delete books.
+Upload Media Files: Users can upload pictures of the books.
+List and Search: User can search and list desired books.
 ### Technologies
-Include Technologies here
+C# 
+ASP.NET Core MVC 
+Bootstrap 
+MySQL Database 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Uploading meida files.
+Social media login.
 ### Project Tracker
 Link to your Trello board here
