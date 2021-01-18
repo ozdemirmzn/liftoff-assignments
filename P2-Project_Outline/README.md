@@ -19,7 +19,7 @@ List and Search: User can search and list desired books.
 *C# 
 *ASP.NET Core MVC 
 *Bootstrap 
-*MySQL Database 
+*MySQL
 ### What I'll Have to Learn
 Uploading meida files.
 Social media login.
