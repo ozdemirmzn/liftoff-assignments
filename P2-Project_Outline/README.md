@@ -16,10 +16,10 @@ Create new items: Users can add or delete books.
 Upload Media Files: Users can upload pictures of the books.
 List and Search: User can search and list desired books.
 ### Technologies
-C# 
-ASP.NET Core MVC 
-Bootstrap 
-MySQL Database 
+*C# 
+*ASP.NET Core MVC 
+*Bootstrap 
+*MySQL Database 
 ### What I'll Have to Learn
 Uploading meida files.
 Social media login.
