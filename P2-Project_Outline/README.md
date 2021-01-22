@@ -11,7 +11,7 @@ Library Application
 ...
 ### Features
 * User Login: Users can create profiles.
-* Social Media Login: Users can user social media accounts to log in. 
+* Social Media Login: Users can use social media accounts to login. 
 * Create new items: Users can add or delete books.
 * Upload Media Files: Users can upload pictures of the books.
 * List and Search: User can search and list desired books.
