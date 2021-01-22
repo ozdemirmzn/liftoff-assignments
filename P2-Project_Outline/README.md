@@ -10,16 +10,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 Library Application
 ...
 ### Features
-User Login: Users can create profiles.
-Social Media Login: Users can user social media accounts to log in. 
-Create new items: Users can add or delete books.
-Upload Media Files: Users can upload pictures of the books.
-List and Search: User can search and list desired books.
+* User Login: Users can create profiles.
+* Social Media Login: Users can user social media accounts to log in. 
+* Create new items: Users can add or delete books.
+* Upload Media Files: Users can upload pictures of the books.
+* List and Search: User can search and list desired books.
 ### Technologies
-*C# 
-*ASP.NET Core MVC 
-*Bootstrap 
-*MySQL
+* C# 
+* ASP.NET Core MVC 
+* Bootstrap 
+* MySQL
 ### What I'll Have to Learn
 Uploading meida files.
 Social media login.
