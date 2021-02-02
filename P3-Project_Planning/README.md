@@ -7,8 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-Not completed yet
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[WireFrame1](https://docs.google.com/document/d/1BJUJqKBh1CtymywqChWjSlHnYOh6_N0KsIe69MtU9j8/edit?usp=sharing)
 
 ### Project Tracker
 
