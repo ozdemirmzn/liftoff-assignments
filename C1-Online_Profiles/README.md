@@ -14,6 +14,4 @@ www.linkedin.com/in/ramazan-o
 
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+https://drive.google.com/file/d/1PtwXu-PjrfKOrDT6hL8KO9ujZQ2cWJpf/view?usp=sharing
